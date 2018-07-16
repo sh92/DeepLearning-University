@@ -1,6 +1,6 @@
 # study_deeplearning
 
-* This is a deep learning study source code in University
-* data : mnist, cifar10
+* This is a deep learning source code in University
+* Data : mnist, cifar10
 * vgg16
 * tensorflow, gpu-tensorflow, tensorboard
