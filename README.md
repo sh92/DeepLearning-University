@@ -2,5 +2,5 @@
 
 * This is a deep learning source code in University
 * Data : mnist, cifar10
-* vgg16
-* tensorflow, gpu-tensorflow, tensorboard
+* Model : vgg16, Resnet
+* Tensorflow, gpu-tensorflow, tensorboard
