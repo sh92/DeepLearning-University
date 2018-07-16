@@ -1,0 +1,4 @@
+np_data/*
+data/*
+*.pyc
+*.swp
